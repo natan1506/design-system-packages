@@ -1,4 +1,4 @@
 {
-  "extends": "@ignite-natansouza-ui/ts-config/base.json",
+  "extends": "@natansouza-ui/ts-config/base.json",
   "include": ["src"]
 }

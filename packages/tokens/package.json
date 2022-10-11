@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-natansouza-ui/tokens",
+  "name": "@natansouza-ui/tokens",
   "version": "1.0.0",
   "main": "./dist/index.js", 
 	"module": "./dist/index.mjs",
@@ -11,8 +11,8 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@ignite-natansouza-ui/ts-config": "*",
-    "@ignite-natansouza-ui/eslint-config": "*",
+    "@natansouza-ui/ts-config": "*",
+    "@natansouza-ui/eslint-config": "*",
     "tsup": "^6.2.3",
     "typescript": "^4.8.4"
   }
