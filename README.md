@@ -4,7 +4,7 @@ Projeto de exemplo de Monorepo onde trabalhos com Storybook, tokens, Stitches, T
 
 #Execução
 
-#yarn
-#yarn dev ou yarn build
+# yarn
+# yarn dev ou yarn build
 
 (comandos para rodar dentro da pasta packages, "dev" fica monitorando qualquer alteração entre os pacotes)
